@@ -3,7 +3,7 @@ nav.navbar{
 }
 .navbar-default .navbar-brand { 
 	color: white;	
- 	font-size: 150%;
+ 	font-size: 100%;
  }
  .navbar-default .navbar-nav > li > a { 
   	color: #D7DBDD; 
@@ -72,7 +72,4 @@ footer{
 }
 .icono{
 	background-color: white;
-}
-#im1{
-	background-image: url("../img/14088815_834626480006246_1848000107_n.jpg");
 }
