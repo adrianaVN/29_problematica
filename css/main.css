@@ -1,0 +1,37 @@
+nav.navbar{
+	background-color: #0C5390;
+}
+.navbar-default .navbar-brand { 
+	color: white;	
+ 	font-size: 150%;
+ }
+ .navbar-default .navbar-nav > li > a { 
+  	color: #D7DBDD; 
+  	border-style: none;
+ }
+body{
+	background-color: #A9B8F7;
+}
+iframe{
+	width:100%;
+	height:360px;
+	border-style: none;
+}
+.espacio{
+	margin-top: 9%;
+}
+.caja{
+	background-color: #0C5390;
+	width: 80%;
+	margin-left: 8%;
+	color: white;
+	padding: 2%;
+}
+.blanco{
+	background-color: #D9DDFA;
+}
+.glyphicon{
+	color: #0C5390;
+	font-size: 200%;
+	text-align: center; 
+}
