@@ -16,9 +16,15 @@ iframe{
 	width:100%;
 	height:360px;
 	border-style: none;
+	margin-top: 2%;
+	border: 0;
 }
 .espacio{
-	margin-top: 9%;
+	margin-top: 8%;
+}
+.espacio2{
+	margin-top: 3%;
+	margin-bottom: 2%;
 }
 .caja{
 	background-color: #0C5390;
@@ -30,8 +36,37 @@ iframe{
 .blanco{
 	background-color: #D9DDFA;
 }
-.glyphicon{
+.azul{
 	color: #0C5390;
 	font-size: 200%;
 	text-align: center; 
+}
+.thumbnail{
+	background-color: #0C5390;
+}
+img{
+	width: 100%;
+}
+footer{
+	background-color: #1C5DAD;
+	padding: 1%;
+	color: white;
+}
+.efecto img {
+	border: 2px solid #eee;
+	-webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+	-moz-box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+	box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+}
+.efecto img:hover {
+	-webkit-transform: rotate(-7deg);
+	-moz-transform: rotate(-7deg);
+	-ms-transform: rotate(-7deg);
+	transform: rotate(-7deg);
+}
+.icono{
+	background-color: white;
 }
