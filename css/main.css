@@ -32,6 +32,9 @@ iframe{
 	margin-left: 8%;
 	color: white;
 	padding: 2%;
+	box-shadow: 5px 4px 3px #0E012C;
+	font-size: 20px;
+	text-shadow: 5px 4px 3px #0E012C;
 }
 .blanco{
 	background-color: #D9DDFA;
@@ -69,4 +72,7 @@ footer{
 }
 .icono{
 	background-color: white;
+}
+#im1{
+	background-image: url("../img/14088815_834626480006246_1848000107_n.jpg");
 }
